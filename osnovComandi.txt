@@ -1,0 +1,6 @@
+git init
+git status
+git add remote origin <repo_link>
+git add index.html
+git add .
+git commit
